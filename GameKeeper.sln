@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameKeeper", "GameKeeper\GameKeeper.csproj", "{2281D255-B036-4EFE-8EEF-0D4505533F36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Presentation", "1 Presentation", "{0CF9656A-E236-4CD4-808A-1A1C51FBEE61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Business", "2 Business", "{C2AE7BF3-34E0-4C73-B0D0-B9735DBE423B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Data", "3 Data", "{003115A1-BEBF-4E25-BDE7-AFF1BA8C38D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 Common", "9 Common", "{6AD296C7-AECE-45FC-841D-ABDD58D725EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 Tests", "9 Tests", "{E7692D5C-FFA6-4B4A-9C91-8701572B2A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameKeeper.Data", "GameKeeper.Data\GameKeeper.Data.csproj", "{D4027669-E031-4BD4-8BDA-BF8E552D8B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2281D255-B036-4EFE-8EEF-0D4505533F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2281D255-B036-4EFE-8EEF-0D4505533F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2281D255-B036-4EFE-8EEF-0D4505533F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2281D255-B036-4EFE-8EEF-0D4505533F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4027669-E031-4BD4-8BDA-BF8E552D8B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4027669-E031-4BD4-8BDA-BF8E552D8B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4027669-E031-4BD4-8BDA-BF8E552D8B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4027669-E031-4BD4-8BDA-BF8E552D8B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2281D255-B036-4EFE-8EEF-0D4505533F36} = {0CF9656A-E236-4CD4-808A-1A1C51FBEE61}
+		{D4027669-E031-4BD4-8BDA-BF8E552D8B14} = {003115A1-BEBF-4E25-BDE7-AFF1BA8C38D0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28238F64-28F9-41DE-A6D2-6C78EB9D5086}
+	EndGlobalSection
+EndGlobal

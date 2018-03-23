@@ -1,0 +1,11 @@
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\bin\Debug\netcoreapp2.0\GameKeeper.deps.json
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\bin\Debug\netcoreapp2.0\GameKeeper.runtimeconfig.json
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\bin\Debug\netcoreapp2.0\GameKeeper.runtimeconfig.dev.json
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\bin\Debug\netcoreapp2.0\GameKeeper.dll
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\bin\Debug\netcoreapp2.0\GameKeeper.pdb
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\obj\Debug\netcoreapp2.0\GameKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\obj\Debug\netcoreapp2.0\GameKeeper.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\obj\Debug\netcoreapp2.0\GameKeeper.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\obj\Debug\netcoreapp2.0\GameKeeper.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\obj\Debug\netcoreapp2.0\GameKeeper.dll
+C:\Users\Kaan\source\repos\GameKeeper\GameKeeper\obj\Debug\netcoreapp2.0\GameKeeper.pdb
